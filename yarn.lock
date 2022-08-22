@@ -97,6 +97,18 @@
   "resolved" "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.2.tgz"
   "version" "0.16.2"
 
+"@types/spotify-api@*":
+  "integrity" "sha512-9CM+iRqR3EBF3pw2WTXKcKPghiEV4HYxIfRvdHstT6QRrcYOQMjLNvI0qCwab/w5RkupNxDgnGHvOrsalLCUWQ=="
+  "resolved" "https://registry.npmjs.org/@types/spotify-api/-/spotify-api-0.0.17.tgz"
+  "version" "0.0.17"
+
+"@types/spotify-web-api-node@^5.0.7":
+  "integrity" "sha512-8ajd4xS3+l4Zau1OyggPv7DjeSFEIGYvG5Q8PbbBMKiaRFD53IkcvU4Bx4Ijyzw+l+Kc09L5L+MXRj0wyVLx9Q=="
+  "resolved" "https://registry.npmjs.org/@types/spotify-web-api-node/-/spotify-web-api-node-5.0.7.tgz"
+  "version" "5.0.7"
+  dependencies:
+    "@types/spotify-api" "*"
+
 "acorn-node@^1.8.2":
   "integrity" "sha512-8mt+fslDufLYntIoPAaIMUe/lrbrehIiwmR3t2k9LljIzoigEPF27eLk2hy8zSGzmR/ogr7zbRKINMo1u0yh5A=="
   "resolved" "https://registry.npmjs.org/acorn-node/-/acorn-node-1.8.2.tgz"
